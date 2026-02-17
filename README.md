@@ -6,7 +6,7 @@ Since version 0.1.5 Doctrine collections can be sorted as is with no need to man
 ## Install
 With composer
 
-    composer require snilius/twig-sort-by-field
+    composer require mhzarei/twig-sort-by-field
 
 ## Usage
 The list could look like this, but obviously with more than one key per array.
